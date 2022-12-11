@@ -22,7 +22,7 @@
                     <li><a href="#">About The App</a></li>
                     <li><a href="#">JSP</a></li>
                     <li><a href="#">Beans</a></li>
-                    <li><a href="#">Controller</a></li>
+                    <li><a href="login.jsp">Login</a></li>
                     <li><a href="#">Contact Us</a></li>
                 </ul>
             </nav>
@@ -32,7 +32,11 @@
 
         <!-- main content goes here -->
         <article class="main">
-            <h2>Article Title</h2>
+            <h2>Welcome-</h2>
+            
+            <main>
+                
+            </main>
 
         </article>
 
